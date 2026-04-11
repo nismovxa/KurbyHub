@@ -45,6 +45,4 @@ local supportedGames = {
 
 if supportedGames[placeId] then
     loadstring(game:HttpGet(supportedGames[placeId]))()
-else
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/chat.lua"))()
 end
