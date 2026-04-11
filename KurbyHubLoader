@@ -24,6 +24,7 @@ local supportedGames = {
     [8737899170] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/petsim.lua",
     [71600459831333] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/streetlife.lua",
     [109983668079237] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/sabhub.lua",
+    [96342491571673] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/sabhub.lua",
     [78178648974959] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/gettallforbrainrot.lua",
     [136255418982514] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/maze.lua",
     [15654981113] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/deathpen.lua",
