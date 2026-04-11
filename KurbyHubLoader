@@ -1,0 +1,49 @@
+local placeId = game.PlaceId
+
+local supportedGames = {
+    [11815767793] = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/UltimateBattlegrounds",
+    [101993432229107] = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/UltimateBattlegrounds",
+    [136801880565837] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/fps%20flick.lua",
+    [286090429] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/arsenal-kurby-free.lua",
+    [12355337193] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/Mvs%20kurby.lua",
+    [84866901748045] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/free-bronx%7Eduels.lua",
+    [123974602339071] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/emote.lua",
+    [136676445296302] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/tnbsouth.lua",
+    [142823291] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/kurbymm2.lua",
+    [97351810896225] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/hitmark.lua",
+    [13772394625] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/bladeball.lua",
+    [123907164579958] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/hiddenwithen.lua",
+    [15694891095] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/combatarena.lua",
+    [12673840215] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/hoodtesting.lua",
+    [18474291382] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/playground.lua",
+    [14259168147] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/auto%20green.lua",
+    [1537690962] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/beeswarm.lua",
+    [70390793715007] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/hooked.lua",
+    [12077443856] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/cali.lua",
+    [9196514723] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/chiblocko.lua",
+    [8737899170] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/petsim.lua",
+    [71600459831333] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/streetlife.lua",
+    [109983668079237] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/sabhub.lua",
+    [78178648974959] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/gettallforbrainrot.lua",
+    [136255418982514] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/maze.lua",
+    [15654981113] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/deathpen.lua",
+    [115121468427840] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/marked.lua",
+    [15532962292] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/autoroll.lua",
+    [77747658251236] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/Sols.lua",
+    [2753915549] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/BLOXFRUIT.lua",
+    [112107733863518] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/cursed.lua",
+    [70845479499574] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/bite.lua",
+    [17625359962] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/rivals.lua",
+    [90913221847091] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/football%20legends.lua",
+    [18199615050] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/demon.lua",
+    [111405784075400] = "https://raw.githubusercontent.com/jodta/Kurby-Hub-scripts/refs/heads/main/Case%20Unboxing.lua",
+    [119987266683883] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/slfb.lua",
+    [134282808814904] = "https://raw.githubusercontent.com/jodta/Hunting-Game/refs/heads/main/MainScript.lua",
+    [124473577469410] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/be%20a%20lucky%20block"
+}
+
+if supportedGames[placeId] then
+    loadstring(game:HttpGet(supportedGames[placeId]))()
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/chat.lua"))()
+end
