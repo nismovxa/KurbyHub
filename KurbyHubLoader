@@ -40,7 +40,8 @@ local supportedGames = {
     [111405784075400] = "https://raw.githubusercontent.com/jodta/Kurby-Hub-scripts/refs/heads/main/Case%20Unboxing.lua",
     [119987266683883] = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/slfb.lua",
     [134282808814904] = "https://raw.githubusercontent.com/jodta/Hunting-Game/refs/heads/main/MainScript.lua",
-    [124473577469410] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/be%20a%20lucky%20block"
+    [124473577469410] = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/be%20a%20lucky%20block",
+    [15269951959] = ""
 }
 
 if supportedGames[placeId] then
