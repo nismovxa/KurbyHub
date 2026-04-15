@@ -41,4 +41,5 @@
     [15269951959] = {name = "Legend battlegrounds", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/LegendBattlegrounds"},
     [13076380114] = {name = "Heroes Battlegrounds", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/HeroesBattlegrounds"},
     [98247054732585] = {name = "Yuu Hood", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/yuuhood.lua"},
-    [136407404714539] = {name = "Find the Brainrot", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/FindTheBrainrot"}
+    [136407404714539] = {name = "Find the Brainrot", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/FindTheBrainrot"},
+    [10449761463] = {name = "The Strongest Battlegrounds", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/TheStrongestBattlegrounds"}
