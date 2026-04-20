@@ -43,4 +43,8 @@
     [98247054732585] = {name = "Yuu Hood", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/yuuhood.lua"},
     [136407404714539] = {name = "Find the Brainrot", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/FindTheBrainrot"},
     [10449761463] = {name = "The Strongest Battlegrounds", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/TheStrongestBattlegrounds"},
-    [121192350097093] = {name = "+1 Jump and Escape Brainrot", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/JumpandEscapeBrainrot"}
+    [121192350097093] = {name = "+1 Jump and Escape Brainrot", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/JumpandEscapeBrainrot"},
+    [16472538603] = {name = "Tha Bronx 3", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/tb3.lua"},
+    [114234929420007] = {name = "Bloxstrike", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/bloxstrike.lua"},
+    [81018077361075] = {name = "YW: Aim trainer", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/ywat.lua"},
+    [102500767640476] = {name = "Miami Streets", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/Miami.lua"}
