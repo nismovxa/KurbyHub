@@ -48,4 +48,5 @@
     [114234929420007] = {name = "Bloxstrike", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/bloxstrike.lua"},
     [81018077361075] = {name = "YW: Aim trainer", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/ywat.lua"},
     [102500767640476] = {name = "Miami Streets", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/Miami.lua"},
-    [7336302630] = {name = "Project Delta", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/projectdelta.lua"}
+    [7336302630] = {name = "Project Delta", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/projectdelta.lua"},
+    [82806856224736] = {name = "Grab Ores!", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/GrabOres"}
