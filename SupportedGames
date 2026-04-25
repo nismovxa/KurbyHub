@@ -13,7 +13,7 @@
     [15694891095] = {name = "Combat Arena", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/combatarena.lua"},
     [12673840215] = {name = "Realistic Hood Testing", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/hoodtesting.lua"},
     [18474291382] = {name = "Playground basketball", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/playground.lua"},
-    [14259168147] = {name = "[🍀SPRING] 🏀Basketball Legends🏀", url = "https://raw.githubusercontent.com/twcrss/CAM-PRO/refs/heads/main/auto%20green.lua"},
+    [14259168147] = {name = "[🍀SPRING] 🏀Basketball Legends🏀", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/bbl.lua"},
     [1537690962] = {name = "Bee Swarm", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/beeswarm.lua"},
     [70390793715007] = {name = "Hooked", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/hooked.lua"},
     [12077443856] = {name = "Cali shootout", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/cali.lua"},
@@ -49,4 +49,5 @@
     [81018077361075] = {name = "YW: Aim trainer", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/ywat.lua"},
     [102500767640476] = {name = "Miami Streets", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/Miami.lua"},
     [7336302630] = {name = "Project Delta", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/projectdelta.lua"},
-    [82806856224736] = {name = "Grab Ores!", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/GrabOres"}
+    [82806856224736] = {name = "Grab Ores!", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/GrabOres"},
+    [113506071094099] = {name = "SHARP", url = "http://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/sharp.lua"}
