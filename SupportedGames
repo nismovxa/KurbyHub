@@ -52,4 +52,5 @@
     [82806856224736] = {name = "Grab Ores!", url = "https://raw.githubusercontent.com/nismovxa/KurbyHub/refs/heads/main/GrabOres"},
     [113506071094099] = {name = "SHARP", url = "http://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/sharp.lua"},
     [94217045453265] = {name = "Dueling Grounds", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/dueling.lua"},
-    [94217045453265] = {name = "Fisch", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/fisch.lua"}
+    [94217045453265] = {name = "Fisch", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/fisch.lua"},
+    [16116270224] = {name = "Dandys world", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/dandy.lua"}
