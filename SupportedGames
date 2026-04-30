@@ -54,5 +54,6 @@
     [94217045453265] = {name = "Fisch", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/fisch.lua"},
     [168556275] = {name = "Afem Max", url = "https://rawscripts.net/raw/Universal-Script-AFEM-Max-Open-Alpha-50210"},
     [16116270224] = {name = "Dandys world", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/dandy.lua"},
-    [89469502395769] = {name = "Kick A lucky Block ", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/kickalucky.lua"}
+    [89469502395769] = {name = "Kick A lucky Block ", url = "https://raw.githubusercontent.com/Kurbywtww/kurbys/refs/heads/main/kickalucky.lua"},
+    [16404660684] = {name = "Body Cam ", url = "https://raw.githubusercontent.com/jodta/my-scripts/refs/heads/main/Bodycam%20Best%20Kurby%20Hub"}
 
